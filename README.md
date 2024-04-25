@@ -3,7 +3,7 @@ This repository was created to help undergraduate students in understanding data
 1.	Student Survey Data: The workbook “StudentSurvey” contains the raw data collected from a cohort of 362 students who were surveyed on their first day of introductory statistics class at one university. All values are self-reported.
 2.	Cleaned up Student Survey Data: The workbook “CleanedStudentSurvey” contains the cleaned-up data of the student survey after deleting records with missing values  at the university.
 3.	Adult Brain and Head Size: The workbook “BrainHead” contains information on 237 individuals who were subject to postmortem examination at the Middlesex Hospital in London around the turn of the 20th century.
-4.	Blood Pressure: The workbook “BloodPressure” contains blood pressure and other physical measurements of 181 subjects under various experimental conditions. 
+4.	Blood Pressure: The workbook “BloodPressure” contains blood pressure and other physical measurements of subjects under various experimental conditions. n = 172. 
 5.	Sleep: The workbook “Sleep” contains data describing sleep habits, size, and other attributes of mammals. n = 62. 
 6.	Nutrition Study: The workbook named “NutritionStudy” contains some nutritional data on 315 patients undergoing elective surgery.
 7.	Health and Safety Authority (HSA) Incidents Data: The workbook “HSA-Incidents-2017-2021” contains an abridged overview of workplace incidents in Ireland from 2017 – 2021.
